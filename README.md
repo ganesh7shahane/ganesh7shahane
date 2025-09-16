@@ -1,4 +1,4 @@
-## Ganesh Shahane
+## Ganesh Shahane, PhD
 
 **`Sr. Scientist, Computational Chemistry`**
 
