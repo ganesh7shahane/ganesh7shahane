@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a computational chemist based in London-UK with **6 years of experience** in academia and industry.
+I'm a computational chemist based in London-UK with more than **6 years of experience** in industry and academia combined.
 
 My focus area for the past few years has been small molecule de-novo drug design using generative AI, QSAR modeling, physics-based virtual screening and general purpose cheminformatics.
 
