@@ -5,7 +5,7 @@ I'm a computational chemist based in London-UK with more than **6 years of exper
 - 🔭 I’m currently working on small-molecule drug discovery projects by applying computational physics and AI based methods.
 - 🌱 I'm always in a perpetual learning mode in various aspects of medchem, cheminformatics, machine-learning, etc
 - ⏳ History geek.
-- 📚 <a href="https://computationalchemist.notion.site/Ganesh-Shahane-PhD-a75f015d3f134031bfd47ed915705363">My personal website for blogs, notes, tutorials, etc</a>
+- 📚 <a href="https://computationalchemist.notion.site/Ganesh-Shahane-PhD-a75f015d3f134031bfd47ed915705363">My personal website</a> for blogs, notes, tutorials, etc
 - 📫 How to reach me:
   - LinkedIn: https://www.linkedin.com/in/ganesh7shahane/
   - Email: ganesh7shahane@gmail.com
