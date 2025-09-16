@@ -1,4 +1,6 @@
-## Hi there 👋
+## Ganesh Shahane
+
+**`Sr. Scientist, Computational Chemistry`**
 
 I'm a computational chemist based in London-UK with more than **6 years of experience** in industry and academia combined.
 
