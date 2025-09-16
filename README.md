@@ -9,6 +9,6 @@ I work closely with fellow medicinal and computational chemists, software and ML
 - 🔭 I’m currently working on computational drug discovery projects by applying physics and AI based methods.
 - 🌱 I'm always in a perpetual learning mode, whether it be various aspects of lead-opt, cheminformatics, machine-learning, etc
 - 📫 How to reach me:
-  - https://www.linkedin.com/in/ganesh7shahane/
+  - LinkedIn: https://www.linkedin.com/in/ganesh7shahane/
   - Email: ganesh7shahane@gmail.com
 - ⚡ Fun fact: A group of flamingos is called a ‘flamboyance’—which is also what happens when computational chemists try to design molecules late on a Friday!
