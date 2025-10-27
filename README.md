@@ -5,7 +5,7 @@
 I'm a computational chemist based in London-UK with more than **6 years of experience** in industry and academia combined.
 
 - 🔭 I’m currently working on small-molecule drug discovery projects by applying computational physics and AI based methods.
-- 🌱 Always in a perpetual learning mode in various aspects of medchem, cheminformatics, machine-learning, etc
+- 🌱 In a perpetual learning mode in various aspects of medchem, cheminformatics, machine-learning, etc
 - 🧑🏻‍💻 Software I use: Schrödinger Maestro, VS Code (Jupyter Notebooks), Pymol, RDKit, and ChemDraw.
 - ⏳ Current hobbies include hiking, board games, and being a history geek 📖.
 - 📚 <a href="https://computationalchemist.notion.site/Ganesh-Shahane-PhD-a75f015d3f134031bfd47ed915705363">My personal website</a> for blogs, notes, tutorials, etc
