@@ -2,7 +2,7 @@
 
 **`Principal Scientist, Computational Chemistry`**
 
-I'm a computational chemist based in London-UK with more than **6 years of experience** in industry and academia combined.
+I'm a computational chemist based in London/Oxford-UK with more than **6 years of experience** in industry and academia combined.
 
 - 🔭 I’m currently working on small-molecule drug discovery projects by applying computational physics and AI based methods.
 - 🌱 In a perpetual learning mode in various aspects of medchem, cheminformatics, machine-learning, etc
